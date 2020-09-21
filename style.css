@@ -1,0 +1,29 @@
+header {
+	padding: 2rem;
+	background: lightblue;
+	margin-top: 2rem;
+	text-align: center;
+	color: #fff;
+}
+
+.quote {
+	font-size: 2rem;
+}
+
+.btn-large {
+	margin: .5rem;
+}
+
+.card {
+	text-align: center;
+	width: 45rem;
+}
+
+.new-quote-button {
+	background: lightblue;
+	border-color: rgb(21,0,255);
+}
+
+#button:hover {
+	background: teal;
+}
